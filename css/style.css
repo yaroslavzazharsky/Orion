@@ -404,7 +404,7 @@ body {
     right: 0;
 }
 .slider .slick-prev{
-    left:calc(100% - 6rem)
+    left: 0;
 }
 .slider .slick-prev{
     background-position:-5px -5px; 
